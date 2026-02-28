@@ -2,7 +2,6 @@
 
 *A full-stack MERN web application for buying, renting, and managing plants with secure authentication, smart inventory control, and a modern responsive UI.* 
 
----
 
 ## Project Overview
 
@@ -10,7 +9,6 @@ The **Plant Nursery Portal** is a full-stack web application built using the **M
 
 This system bridges the gap between traditional plant nurseries and modern e-commerce platforms by delivering a secure, responsive, and scalable solution for both customers and administrators.
 
----
 
 ## Tech Stack
 
@@ -27,7 +25,6 @@ This system bridges the gap between traditional plant nurseries and modern e-com
 ### Database
 - MongoDB (Local)
 
----
 
 ## Key Features
 
@@ -73,7 +70,6 @@ This system bridges the gap between traditional plant nurseries and modern e-com
 - Authentication middleware  
 - Error handling & validation  
 
----
 
 ## Screenshots
 
@@ -109,7 +105,6 @@ This system bridges the gap between traditional plant nurseries and modern e-com
 
 > Follow these steps to run the project locally.
 
----
 
 ## Prerequisites
 
@@ -119,7 +114,6 @@ Make sure you have the following installed:
 - MongoDB (Local installation or MongoDB Compass)  
 - Git  
 
----
 
 ## 1️⃣ Clone the Repository
 
@@ -169,7 +163,6 @@ http://localhost:5173
 
 To create an admin user, manually insert a user with role "admin" in MongoDB.
 
----
 
 ## Project Structure
 
@@ -196,7 +189,7 @@ plant-nursery-portal/
 │
 └── README.md
 ```
----
+
 
 ## Development
 
