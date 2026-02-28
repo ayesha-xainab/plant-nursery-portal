@@ -176,23 +176,23 @@ To create an admin user, manually insert a user with role "admin" in MongoDB.
 plant-nursery-portal/
 │
 ├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   └── server.js
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ ├── middleware/
+│ └── server.js
 │
 ├── frontend/
-│   └── index.html
-│   ├── src/
-│       ├── components/
-|       ├── context/
-|       ├── pages/
-│       ├── services/
-│       └── main.jsx
-│       └── App.jsx
-│       └── index.css
-|_______________________
+│ ├── index.html
+│ ├── src/
+│ │ ├── components/
+│ │ ├── context/
+│ │ ├── pages/
+│ │ ├── services/
+│ │ ├── App.jsx
+│ │ ├── main.jsx
+│ │ └── index.css
+│
 
 ---
 
